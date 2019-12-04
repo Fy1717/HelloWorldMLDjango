@@ -1,4 +1,3 @@
-
 import numpy as np #matematiksel işlemlerde kullancağımız kütüphane
 from sklearn.linear_model import LinearRegression as lr #Sklearn linner regresyon modeli
 import pandas as pd # verileri düzenlemek için kullanılan kütüphane

@@ -14,4 +14,5 @@ MlProject.py --> Makine öğrenmesi algoritmaları için oluşturduğumuz kısı
 		readdata() fonk --> data.py de oluşturduğumuz csv yi alıp isteğimize göre şekillendiriyoruz
 		
 		*16 ve 17.satırlar reshape(x,1) x = verinin sayısı olarak yazılmalı
+		*csv dosyası başlangıçta silinmeli ya da temizlenmeli
 	 

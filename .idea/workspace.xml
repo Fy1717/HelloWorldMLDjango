@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9faf45a5-408a-495f-9b4d-000084faa95f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HelloWorldML/MLFiles/MLProject.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorldML/MLFiles/MLProject.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/AyNotes" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/AyNotes" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -143,7 +141,7 @@
       <workItem from="1575370842772" duration="3222000" />
       <workItem from="1575402427100" duration="157000" />
       <workItem from="1575452616646" duration="2163000" />
-      <workItem from="1575485258073" duration="557000" />
+      <workItem from="1575485258073" duration="1131000" />
     </task>
     <servers />
   </component>
