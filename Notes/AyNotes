@@ -1,0 +1,17 @@
+data.py --> verilerin toplanıp csv dosyası oluşturuğumuz kısım
+	req() fonk --> HTTP sorgusu yapılıyor content değişkenine html içeriği aktarılıyor 
+		cn --> class name
+		el --> element adı
+		cn ve element değişkenlerine istediğimiz içeriğin class ve elementini gönderiyoruz
+	bsoup() fonk --> HTML parser
+		dataset --> değişkene içerikte istediğimiz kısmı aktarıyoruz daha sonra for ile ayrıştıracağız
+		sayac --> csv dosyası oluştururken başlık tekrarı olmasın diye kullanıyoruz (true false daha mantıklı geldi şu an)
+		m2 --> csv ye aktaracağımız x ekseni 
+		price --> csvye aktaracağımız y ekseni
+		
+		*24 ve 25. satırda h4 ve h3 yerine istenilen elementlerin yazılması gerekli
+MlProject.py --> Makine öğrenmesi algoritmaları için oluşturduğumuz kısım
+		readdata() fonk --> data.py de oluşturduğumuz csv yi alıp isteğimize göre şekillendiriyoruz
+		
+		*16 ve 17.satırlar reshape(x,1) x = verinin sayısı olarak yazılmalı
+	 
