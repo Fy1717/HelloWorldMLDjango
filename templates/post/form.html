@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Title</title>
+    </head>
+    <body>
+        <form method="POST">
+            {% csrf_token %}
+            <h1>Form</h1>
+            {{form.as_p}}
+            <input type="submit" value="Gönder">
+        </form>
+        
+
+    </body>
+</html>

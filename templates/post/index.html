@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Title</title>
+    </head>
+
+    <body>
+        <h2 style="margin-left:40px;">HELLO WORLD ML PROJECTS</h2>
+        <hr>
+
+        {% for post in posts %}
+            <b>{{ post.id }} - </b>
+            <b>{{ post.title }} :</b><br><br>
+            Açıklama : {{ post.content }} <br><br>
+            Oluşturulma Tarihi : {{ post.publishing_date }} <br>
+            <hr>
+
+        {% endfor %}
+
+    </body>
+</html>
